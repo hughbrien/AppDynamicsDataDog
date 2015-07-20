@@ -1,0 +1,7 @@
+{
+"title": "${latestEvent.displayName}",
+"text": "${latestEvent.summaryMessage} ${latestEvent.eventMessage}",
+"alert_type":"error",
+"priority":"normal",
+"tags":["guid:${latestEvent.guid}","eventid:${latestEvent.id}","environment:${Environment}","os:${OS}","platform:${Platform}"]
+}
