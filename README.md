@@ -1,6 +1,6 @@
 # AppDynamicsDataDog
 Integration between AppDynamics and DataDog
 
-#Events
+Events
 
-#Health Rule Violations
+Health Rule Violations
